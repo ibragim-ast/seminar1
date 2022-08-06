@@ -8,11 +8,12 @@ while (a < N)
 { 
 if (a % 2 == 1)
 { 
-    a = a + 1;
+    a += 1;
 }
 else
 {
-    Console.WriteLine(a);
-    a = a + 2;
+    Console.Write(a);
+    Console.Write(" ");
+    a += 2;
 }
 }
