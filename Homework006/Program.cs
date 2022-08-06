@@ -4,9 +4,9 @@ int a = 7;
 
 if (a % 2 == 0)
 {
-Console.WriteLine("Число делится на 2 без остатка");
+    Console.WriteLine("Число делится на 2 без остатка");
 }
 else
 {
-Console.WriteLine("Число делится на 2 с остатком");    
+    Console.WriteLine("Число делится на 2 с остатком");    
 }
