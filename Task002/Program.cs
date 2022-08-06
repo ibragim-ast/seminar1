@@ -4,11 +4,7 @@
 int a = -3;
 int b = 9;
 if (a * a == b)
-{
-    Console.Write("Yes");
-}
+Console.Write("Yes");
 else
-{
-    Console.Write("No");
-}
+Console.Write("No");
 
